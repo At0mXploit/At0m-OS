@@ -3,6 +3,10 @@
 ## A Stupid Project.
 
 ---
+## What is this?
+- An interactive envirement that provides an interface for the user and supplied programs, providing a stable and safe envirement, an interface layer to System services and computer hardware.
+- Basically **Operating System**
+
 
 ### Things to add ( if i dont procastinate):
 - Memory Management
